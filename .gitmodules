@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/iijima-tatsunori/spa-app-api
+[submodule "front"]
+	path = front
+	url = https://github.com/iijima-tatsunori/spa-app-front
